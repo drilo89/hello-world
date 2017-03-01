@@ -1,2 +1,3 @@
 # hello-world
-Hola. Este es miprimer repositorio en Github.
+Hola. Este es mi primer repositorio en Github.
+Estoy descubriendo nuevas herramientas para escribir.
